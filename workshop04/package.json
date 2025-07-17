@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "compression": "^1.7.4",
+    "compression": "^1.8.1",
     "consul": "^0.34.1",
     "cors": "^2.8.5",
     "express": "^4.17.1",
